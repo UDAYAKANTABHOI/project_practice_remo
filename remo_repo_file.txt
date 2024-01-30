@@ -1,0 +1,1 @@
+This is the sub-branch named remo_repo_file.txt created in github remote repo.
