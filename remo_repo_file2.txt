@@ -1,0 +1,1 @@
+This is the file named remo_repo_file2.txt created in GIthub remote branch.
